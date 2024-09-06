@@ -23,6 +23,8 @@ import core.basesyntax.service.strategy.ReturnOperation;
 import core.basesyntax.service.strategy.SupplyOperation;
 import java.util.List;
 import java.util.Map;
+//changed the remote repo from github.com:dlvsn/jv-fruit-shop.git
+// to github.com/dlvsn/jv-fruit-shop-tests
 
 public class FruitShopApplication {
     private static final String FILE_TO_READ = "src/main/resources/reportToRead.csv";
