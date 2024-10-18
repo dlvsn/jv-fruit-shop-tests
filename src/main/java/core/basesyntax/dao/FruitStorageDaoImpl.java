@@ -1,8 +1,10 @@
 package core.basesyntax.dao;
 
 import core.basesyntax.db.FruitStorage;
+import org.springframework.stereotype.Repository;
 import java.util.Map;
 
+@Repository
 public class FruitStorageDaoImpl implements FruitStorageDao {
 
     @Override
